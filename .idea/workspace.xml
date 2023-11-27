@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="139508fa-b991-49c0-8033-f97ef3552e04" name="Changes" comment="" />
+    <list default="true" id="139508fa-b991-49c0-8033-f97ef3552e04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ej1DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ej2DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ej3DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ej4DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ej5DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjLocalDate1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjLocalDate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjLocalDate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjLocalDate4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjMioLD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjStrinMetodos4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjStringMetodos2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjStringMetodos3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjStringMetodos5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjeFor5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjerFor6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjerFor7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjerFor8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjerFor9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjercicioFor4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -19,9 +66,87 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.EjStringMetodos6">
+    <configuration name="EjStrinMetodos4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EjStrinMetodos4" />
+      <module name="Nov27Ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjStringMetodos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EjStringMetodos2" />
+      <module name="Nov27Ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjStringMetodos3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EjStringMetodos3" />
+      <module name="Nov27Ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjStringMetodos5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EjStringMetodos5" />
+      <module name="Nov27Ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjStringMetodos6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EjStringMetodos6" />
+      <module name="Nov27Ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjStringMetodos6" />
+        <item itemvalue="Application.EjStringMetodos5" />
+        <item itemvalue="Application.EjStrinMetodos4" />
+        <item itemvalue="Application.EjStringMetodos3" />
+        <item itemvalue="Application.EjStringMetodos2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

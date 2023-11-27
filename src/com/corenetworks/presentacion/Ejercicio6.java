@@ -1,3 +1,5 @@
+package com.corenetworks.presentacion;
+
 import java.util.Scanner;
 
 public class Ejercicio6 {

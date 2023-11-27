@@ -1,3 +1,5 @@
+package com.corenetworks.presentacion;
+
 public class Ejercicio2 {
     public static void main(String[] args) {
         //Crear una variable distinta por cada tipo de dato, asignamos valores a cada una de ellas
